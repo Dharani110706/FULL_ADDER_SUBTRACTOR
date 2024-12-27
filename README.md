@@ -78,10 +78,10 @@ endmodule'''
 ![fs](https://github.com/user-attachments/assets/a0be2b86-7b2e-4a4b-a05a-3966a903f89d)
 
 **Output Timing Waveform**
+![image](https://github.com/user-attachments/assets/5721b6d2-4b80-462e-8c2e-5a58bd0a514b)
 
-![fa waveform](https://github.com/user-attachments/assets/d21e973f-32e6-4c89-ae9d-7929fdc19d69)
 
-![fs waveform](https://github.com/user-attachments/assets/6a3431b1-fd0b-41d4-8ee2-017280790e68)
+![image](https://github.com/user-attachments/assets/5da4db53-d6db-41cd-8e5d-2293a1737da8)
 
 
 **Result:**
